@@ -1,0 +1,5 @@
+.idea
+**/state
+**/*/.terraform
+**/*/provider.tf
+**/*/state.tf
